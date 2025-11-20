@@ -11,7 +11,7 @@ export const ExperienceSection = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                 <div className="gradient-border p-6 card-hover">
                     <div className="flex items-start gap-4">
-                        <div className="p-3 bg-primary/10 rounded-full w-25">
+                        <div className="p-4 bg-primary/10 rounded-full">
                             <a href="https://www.infineon.com/" target="_blank" className='font-bold text-glow text-primary'>Infineon</a>
                         </div>
                         <div>
@@ -26,7 +26,7 @@ export const ExperienceSection = () => {
                 </div>
                 <div className="gradient-border p-6 card-hover">
                     <div className="flex items-start gap-4">
-                        <div className="p-3 bg-primary/10 rounded-full w-20">
+                        <div className="p-4 bg-primary/10 rounded-full">
                             <a href="https://www.dts.de/en/" target="_blank" className='font-bold text-glow text-primary'>DTS</a>
                         </div>
                         <div>
@@ -41,7 +41,7 @@ export const ExperienceSection = () => {
                 </div>
                 <div className="gradient-border p-6 card-hover">
                     <div className="flex items-start gap-4">
-                        <div className="p-3 bg-primary/10 rounded-full w-20">
+                        <div className="p-4 bg-primary/10 rounded-full">
                             <a href="https://www.filmfestival.gr/en/" target="_blank" className='font-bold text-glow text-primary'>TIFF</a>
                         </div>
                         <div>
