@@ -18,11 +18,11 @@ export const HeroSection = () => {
                         This portfolio is an example of my work.
                     </p>
 
-                    <div className="opacity-0 animate-fade-in-delay-4">
+                    {/* <div className="opacity-0 animate-fade-in-delay-4">
                         <a href="#projects" className="cosmic-button">
                             View My Work
                         </a>
-                    </div>
+                    </div> */}
                 </div>
 
             </div>
